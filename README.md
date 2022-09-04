@@ -13,7 +13,7 @@ $ git clone https://github.com/ArceloTR/Taller-1-CPD.git
 - Compilar el ejecutable:
 
 ```bash
-$ cd Taller-1/app
+$ cd Taller-1-CPD/app
 $ make
 ```
 
